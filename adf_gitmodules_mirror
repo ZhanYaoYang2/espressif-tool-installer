@@ -1,0 +1,6 @@
+[submodule "components/esp-adf-libs"]
+	path = components/esp-adf-libs
+	url = https://gitee.com/esp-components/esp-adf-libs.git
+[submodule "components/esp-sr"]
+	path = components/esp-sr
+	url = https://gitee.com/esp-components/esp-sr.git
