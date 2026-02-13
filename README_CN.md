@@ -39,7 +39,7 @@ git clone https://github.com/ZhanYaoYang2/espressif-tool-installer.git
 cd espressif-tool-installer
 ```
 
-###或gitee下载更快
+### 或gitee
 ```bash
 pkg install git -y
 git clone https://gitee.com/zhanyaoyang/espressif-tool-installer
